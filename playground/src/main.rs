@@ -1,4 +1,5 @@
 mod my_enums;
+mod my_structs;
 
 fn main() {
     println!("Hello, world!");
