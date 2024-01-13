@@ -1,5 +1,6 @@
 mod my_enums;
 mod my_structs;
+mod my_traits;
 
 fn main() {
     println!("Hello, world!");

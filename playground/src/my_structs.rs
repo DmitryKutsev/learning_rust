@@ -28,7 +28,8 @@ mod test {
     #[test]
     fn test_check_rect_area() {
         let result: u8 = _check_rect_area(3, 4);
-        assert_eq!(result, 12);
         dbg!(result);
+        assert_eq!(result, 12);
+        
     } 
 }
